@@ -6,3 +6,7 @@ functions:
     lang: go
     handler: ./calculator
     image: jerome1337/calculator:latest
+  gitlab-stats:
+    lang: go
+    handler: ./gitlab-stats
+    image: jerome1337/gitlab-stats:latest
